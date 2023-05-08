@@ -1,0 +1,27 @@
+body{
+	
+	height: 200px;	
+	}
+.container{
+	 width: 30%;
+	 height: 290%;
+	 border: 3px solid black;
+	 padding: 25px;
+	 margin: auto;
+	 background-image: url('bg4.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+input[type=Send]
+{
+background-color:  green;
+width: 50px;
+border-color: black;
+}
+input[type=Clear]
+{
+background-color:  green;
+width: 50px;
+border-color: black;
+}
